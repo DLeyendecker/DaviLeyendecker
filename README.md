@@ -1,4 +1,6 @@
-### Hi there 👋
+### Olá, sou Davi Leyendecker!
+
+Atualmente desenvolvendo conhecimentos em Python, SQL, NoSQL e Cloud Computing (Azure).
 
 <!--
 **DaviLeyendecker/DaviLeyendecker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
