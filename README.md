@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou Davi Leyendecker</h1>
+<h1 align="center">Olá 🖖, eu sou Davi Leyendecker</h1>
 <h3 align="center">Apaixonado por Dados no mundo digital</h3>
 
 - 🌱 Atualmente aprimorando conhecimentos **SQL, NoSQL e Python**
